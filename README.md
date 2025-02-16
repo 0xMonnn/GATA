@@ -2,6 +2,16 @@
 
 #INSTALL
 
+```bash
+git clone https://github.com/0xMonnn/GATA.git
+
+```
+
+```bash
+cd GATA
+
+```
+
 - Install Dependency
 
 ```bash
